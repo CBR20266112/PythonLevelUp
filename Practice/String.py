@@ -23,4 +23,3 @@ index3 = A.index("s", index2 + 2)
 print(index3)
 # 글자 찾아와.
 print(A.find("D"))
-PRINT()
